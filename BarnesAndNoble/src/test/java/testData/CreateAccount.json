@@ -1,0 +1,17 @@
+[
+{
+"Firstname":"Harry",
+"Lastname":"Potter",
+"Email":"automationtest007@bn.org",
+"Password":"Test@123",
+"ConfirmPassword":"Test@123"
+},
+
+{
+"Firstname":"King",
+"Lastname":"Lilly",
+"Email":"lilly111@bn.com",
+"Password":"Test@123",
+"ConfirmPassword":"Test@123"
+}
+]
